@@ -20,3 +20,7 @@ I wrote this bootstrapper in node to automate my project start up process. Altho
 
 It creates a new folder, then launches vscode in that folder.
 It uses a `config.dat` file in the same directory to know where to store and launch the project from.
+
+### Final words
+
+This was written in node and built to target a windowsx64 machine, if you'd like to try it on another type of machine it can easily be rebuilt for that machine using 'pkg' from vercel. I have not tested this on other machine types though... : )
