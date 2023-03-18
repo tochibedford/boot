@@ -6,9 +6,9 @@
 
 ### Running Boot
 
-> Get the binary here: [bin](./bin)
-> Add the folder you store boot.exe in to path. (i.e. if boot.exe is stored in "C:\Program Files\boot\boot.exe" then add "C:\Program Files\boot" to path)
-> Then in any windows terminal session you can now run (you'll probably need to use a fresh terminal session to do this):
+- Get the binary here: [bin](./bin)
+- Add the folder you store boot.exe in to path. (i.e. if boot.exe is stored in "C:\Program Files\boot\boot.exe" then add "C:\Program Files\boot" to path)
+- Then in any windows terminal session you can now run (you'll probably need to use a fresh terminal session to do this):
 
 ```cmd
 >>> boot my_project_name
