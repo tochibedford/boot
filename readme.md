@@ -16,7 +16,7 @@
 
 ### About
 
-I wrote this bootstrapper in node to automate my project start up process. Although it's still bare-bones, it's able to replicate my process when i run:
+I wrote this bootstrapper in node to automate my project start up process. Although it's still bare-bones, it's able to replicate my specific process.
 
 It creates a new folder, then launches vscode in that folder.
 It uses a `config.dat` file in the same directory to know where to store and launch the project from.
