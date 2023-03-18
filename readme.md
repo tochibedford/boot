@@ -23,4 +23,4 @@ It uses a `config.dat` file in the same directory to know where to store and lau
 
 ### Final words
 
-This was written in node and built to target a windowsx64 machine, if you'd like to try it on another type of machine it can easily be rebuilt for that machine using 'pkg' from vercel. I have not tested this on other machine types though... : )
+This was written in node and built to target a windowsx64 machine, if you'd like to try it on another type of machine it can easily be rebuilt for that machine using 'pkg' from vercel. I have not tested this on other machine types though... 🫡
